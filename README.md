@@ -1,9 +1,8 @@
 ### Hi there 👋 I'm Furkan
 
 - 🔭 I’m currently a student at Firat University
-- 🌱 I’m currently learning Deep Learning
 - 👯 I’m open to work
-- ⚡ I’m interested in Artificial Intelligence and Java
+- ⚡ I’m interested in Java technologies
 - 💬 How to reach me: yusuffurkanyalcinn@gmail.com
 - 😄 Pronouns: he/him
 
