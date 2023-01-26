@@ -1,11 +1,8 @@
 ### Hi there 👋 I'm Furkan
 
 - 🔭 I’m currently a student at Firat University
-- 👯 I’m open to work
-- ⚡ I’m interested in Java technologies
+- ⚡ I’m interested in Java technologies and system designing
 - 💬 How to reach me: yusuffurkanyalcinn@gmail.com
-- 😄 Pronouns: he/him
-
 
 # Social Medias
 
