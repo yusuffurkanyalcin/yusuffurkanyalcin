@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Furkan
 
-- 🔭 I’m currently a student at Firat University
+- 🔭 I’m a junior software designer at Orion Innovation Turkey
 - ⚡ I’m interested in Java technologies and system designing
 - 💬 How to reach me: yusuffurkanyalcinn@gmail.com
 
