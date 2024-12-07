@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Furkan
 
 - 🔭 I’m a software designer at Orion Innovation Turkey
-- ⚡ I’m interested in Java technologies and system designing
+- ⚡ I have been working on Java technologies and system designing
 - 💬 How to reach me: yusuffurkanyalcinn@gmail.com
 
 # Social Medias
